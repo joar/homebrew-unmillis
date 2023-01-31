@@ -1,8 +1,8 @@
 class Unmillis < Formula
   desc "Converts millisecond UNIX timestamps to the more readable RFC3339 format"
   homepage "https://github.com/joar/unmillis"
-  url "https://github.com/joar/unmillis/archive/refs/tags/v1.0.4.tar.gz"
-  sha256 "cca4250c938f20a4a399265e47ac754fc7adf44fe4e3d4b0aed56710f5faf31e"
+  url "https://github.com/joar/unmillis/archive/refs/tags/v1.0.7.tar.gz"
+  sha256 "a57358172d0c1f77b53ec710b5be967bd1d91de3e07c39fb4380d45f01abfc0e"
   head "https://github.com/joar/unmillis.git"
 
   depends_on "rust" => :build
